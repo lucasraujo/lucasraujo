@@ -1,6 +1,8 @@
 
 ### Olá! eu Lucas Araujo 👋
 
+### Atualmente trabalho em uma empresa que utiliza repositórios privados no GitLab, por isso caso note poucas movimentações por aqui, não se preocupe — estou sempre ativo desenvolvendo e aprendendo no dia a dia! 🚀
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-854487164/)
 
 
